@@ -11,7 +11,6 @@
 	if (isset($_REQUEST['contrasena1'])) {
 
         $R=modif();
-echo hola;
 	}
 ?>
 <!doctype html>

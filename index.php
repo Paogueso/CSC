@@ -59,7 +59,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- /.row (nested) -->
                 </div>
                 <!-- /.col-lg-10 -->
             </div>

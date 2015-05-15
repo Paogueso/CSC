@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	session_start();
 	require_once('/PasswordHash.php');
 	include_once 'conn.php';
@@ -11,6 +11,7 @@
 	if (isset($_REQUEST['contrasena1'])) {
 
         $R=modif();
+	echo hola;
 	}
 ?>
 <!doctype html>

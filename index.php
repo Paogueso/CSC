@@ -98,7 +98,7 @@
                                 </h4>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-6 col-sm-6"> 
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -115,7 +115,6 @@
                         </div>
                       
                     </div>
-                    <!-- /.row (nested) -->
                 </div>
                 <!-- /.col-lg-10 -->
             </div>

@@ -1,0 +1,99 @@
+
+
+body{
+	margin:0;
+	padding:0;
+}
+
+
+#home { 
+	background: url("../images/banne.jpg") 50% 0 no-repeat fixed;
+	height: 1000px;  
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+#about { 
+	background: url("../images/basket.jpg") 25% 0 no-repeat fixed;
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+
+#Mision { 
+    background: url("../images/volle.JPG") 50% 0 no-repeat fixed;
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+
+
+.formato{
+  font-family:fantasy;
+    text-align: center;
+    color:white;
+    font-style:italic;
+    font-size: 28px;  
+    
+}
+
+
+.fondo{
+background-color: transparent;
+color: white; 
+width: 500px;
+height: 500ps;
+position: absolute;
+top: 50%;
+left: 50%;
+margin-top: -250px;   /* height/2 = 500px / 2 */
+margin-left: -250px;  /* width/2 = 500px / 2 */
+    text-align: justify;
+}
+
+
+
+
+
+
+
+.footer { position: relative; 
+    margin-top: -50px; /* altura en px del footer con valor negativo */ 
+    height: 50px; /* Altura del Footer en px*/ 
+    clear: both; 
+    background: #3ab4a6; 
+    text-align: center; 
+    color: #FCF8F7; 
+    font-size: 28px;
+} 
+
+.botonimagen{
+    color: white;
+  background-color: #3ab4a6;
+  background-repeat:no-repeat;
+  height:50px;
+  width:200px;
+  background-position:center;
+border-bottom-style:groove;
+    border-spacing: inherit;
+}
+
+
+#home article { background: url("") no-repeat scroll center top transparent; height: 458px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+#about article { background: url("") no-repeat scroll center top transparent; height: 458px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
+
+
+
+
+   
